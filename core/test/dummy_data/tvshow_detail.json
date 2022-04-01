@@ -1,0 +1,193 @@
+{
+  "adult": false,
+  "backdrop_path": "/hI5h8o3bbZlZwnySEs6rL7pXH32.jpg",
+  "created_by": [
+    {
+      "id": 23227,
+      "credit_id": "52fe6452c3a36818d600b632",
+      "name": "Steven Knight",
+      "gender": 2,
+      "profile_path": "/vmM9j2yXI8A3AccX3YgOEZHQWcO.jpg"
+    }
+  ],
+  "episode_run_time": [
+    60,
+    58
+  ],
+  "first_air_date": "2013-09-12",
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/b045fz8r",
+  "id": 60574,
+  "in_production": true,
+  "languages": [
+    "en"
+  ],
+  "last_air_date": "2022-03-06",
+  "last_episode_to_air": {
+    "air_date": "2022-03-06",
+    "episode_number": 2,
+    "id": 3523065,
+    "name": "Black Shirt",
+    "overview": "Tommy gets involved in a power game with fascists, freedom fighters and Boston gangsters. As the players plan to double cross him, Tommy visits an old ally in Camden.",
+    "production_code": "",
+    "season_number": 6,
+    "still_path": "/i6C8T76p9kbHs62sz6VRVCnTZTS.jpg",
+    "vote_average": 0.0,
+    "vote_count": 0
+  },
+  "name": "Peaky Blinders",
+  "next_episode_to_air": {
+    "air_date": "2022-03-13",
+    "episode_number": 3,
+    "id": 3534725,
+    "name": "Gold",
+    "overview": "Faced with devastating news, Tommy goes on a quest to discover who it was that placed a curse on his family. In Birmingham, Ada takes charge, and Arthur takes on some new recruits.",
+    "production_code": "",
+    "season_number": 6,
+    "still_path": "/6oPTroNgWE75kUf8hWoX7qJTdVp.jpg",
+    "vote_average": 0,
+    "vote_count": 0
+  },
+  "networks": [
+    {
+      "name": "BBC One",
+      "id": 4,
+      "logo_path": "/mVn7xESaTNmjBUyUtGNvDQd3CT1.png",
+      "origin_country": "GB"
+    },
+    {
+      "name": "BBC Two",
+      "id": 332,
+      "logo_path": "/6kl5tMuct7u3ej5myL4c9QQVSW1.png",
+      "origin_country": "GB"
+    }
+  ],
+  "number_of_episodes": 34,
+  "number_of_seasons": 6,
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_name": "Peaky Blinders",
+  "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+  "popularity": 2355.664,
+  "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+  "production_companies": [
+    {
+      "id": 686,
+      "logo_path": "/qMVjV8YFbxXrGVF4wD6hRjllVbr.png",
+      "name": "Tiger Aspect Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 80893,
+      "logo_path": "/8rITuQjEtHEjdyU49sv9fKBYf8E.png",
+      "name": "BBC Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 20047,
+      "logo_path": "/cBjeG0zicn6oTV9NNtEGmmZhEXp.png",
+      "name": "Caryn Mandabach Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2690,
+      "logo_path": "/9XXpd39mDfkWmcNB6R0tpvzo781.png",
+      "name": "Screen Yorkshire",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "seasons": [
+    {
+      "air_date": null,
+      "episode_count": 17,
+      "id": 178069,
+      "name": "Specials",
+      "overview": "",
+      "poster_path": "/o5VrKdfN5Xg2pRnQVSqBCi4iNG9.jpg",
+      "season_number": 0
+    },
+    {
+      "air_date": "2013-09-12",
+      "episode_count": 6,
+      "id": 59914,
+      "name": "Series 1",
+      "overview": "",
+      "poster_path": "/yMvESLkgmtdAseh6LN97Ex92vvI.jpg",
+      "season_number": 1
+    },
+    {
+      "air_date": "2014-10-02",
+      "episode_count": 6,
+      "id": 62804,
+      "name": "Series 2",
+      "overview": "As the 1920s begin to roar, business is booming for the Peaky Blinders gang. Shelby sets his sights on wider horizons and his meteoric rise brings him into contact with both the upper echelons of society and astonishing new adversaries from London’s criminal world. All will test him to the core, though in very different ways. Meanwhile, Shelby’s home turf faces new challenges as an enemy from his past returns to the city with plans for a revenge of biblical proportions.",
+      "poster_path": "/8vp08uElPn5S2jHSVuAjrytJiuH.jpg",
+      "season_number": 2
+    },
+    {
+      "air_date": "2016-05-05",
+      "episode_count": 6,
+      "id": 72707,
+      "name": "Series 3",
+      "overview": "The action has moved on two years to 1924 and as Tommy starts married life he is more determined than ever to go legitimate and keep his family safe. But he finds himself pulled into a web of intrigue more lethal than anything he has yet encountered.",
+      "poster_path": "/js9mpNeYFuU88RBjXYyy0yczUd0.jpg",
+      "season_number": 3
+    },
+    {
+      "air_date": "2017-11-15",
+      "episode_count": 6,
+      "id": 94653,
+      "name": "Series 4",
+      "overview": "It is 1924, Tommy Shelby is caught in a dangerous web of international intrigue.",
+      "poster_path": "/uw2RJmNPWaJUQOg9OrqCo90HcLN.jpg",
+      "season_number": 4
+    },
+    {
+      "air_date": "2019-08-25",
+      "episode_count": 6,
+      "id": 129442,
+      "name": "Series 5",
+      "overview": "It is 1929, Tommy Shelby MP is approached by a charismatic politician with a bold vision for Britain, he realises that his response will affect not just his family’s future but that of the entire nation.",
+      "poster_path": "/arlFd2cGgP9kvEnL9FwXlcTm28D.jpg",
+      "season_number": 5
+    },
+    {
+      "air_date": "2022-02-27",
+      "episode_count": 4,
+      "id": 217806,
+      "name": "Series 6",
+      "overview": "1934 brings both opportunities and dangers to the Peaky Blinders. Beset by demons old and new, Tommy Shelby conceives a radical strategy to deal with a world on the road to hell, continuing his war against fascist politician Oswald Mosley and crossing paths with a mysterious new character.",
+      "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+      "season_number": 6
+    }
+  ],
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Returning Series",
+  "tagline": "London's for the taking",
+  "type": "Scripted",
+  "vote_average": 8.6,
+  "vote_count": 5645
+}

@@ -1,0 +1,14 @@
+import 'package:dartz/dartz.dart';
+
+import '../../../utils/failure.dart';
+import '../../entities/tvshow/tvshow.dart';
+import '../../repositories/tvshow_repository.dart';
+
+class GetWatchlistTvShow {
+  final TvShowRepository repository;
+
+  GetWatchlistTvShow(this.repository);
+
+  Future<Either<Failure, List<TvShow>>> execute() =>
+      repository.getWatchlistTvShows();
+}
