@@ -3,6 +3,7 @@ import 'package:core/core.dart';
 import 'package:core/utils/http_ssl_pinning.dart';
 import 'package:core/utils/routes.dart';
 import 'package:ditonton/injection.dart' as di;
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -12,6 +13,7 @@ import 'package:search/search.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await HttpSSLPinning.init();
+  await Firebase.initializeApp();
   di.init();
   runApp(MyApp());
 }
@@ -98,7 +100,7 @@ class MyApp extends StatelessWidget {
               return MaterialPageRoute(builder: (_) => OnTheAirTvShowsPage());
             case PopularTvShowsPage.ROUTE_NAME:
               return MaterialPageRoute(builder: (_) => PopularTvShowsPage());
-            case SearchTvShowPage.ROUTE_NAME:
+            case TVSHOW_SEARCH_ROUTE:
               return MaterialPageRoute(builder: (_) => SearchTvShowPage());
             case TopRatedTvShowsPage.ROUTE_NAME:
               return MaterialPageRoute(builder: (_) => TopRatedTvShowsPage());

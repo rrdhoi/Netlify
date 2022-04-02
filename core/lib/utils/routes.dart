@@ -10,4 +10,4 @@ const TOP_RATED_TVSHOW_ROUTE = '/top-rated-tvShows';
 const ON_THE_AIR_TVSHOW_ROUTE = '/on-the-air-tvShows';
 const TVSHOW_DETAIL_ROUTE = '/tvShow-detail';
 const TVSHOW_SEARCH_ROUTE = '/search-tvShow-page';
-const TVSHOW_LIST_ROUTE = '/search-tvShow-page';
+const TVSHOW_LIST_ROUTE = '/tvShow-page';

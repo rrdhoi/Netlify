@@ -5,8 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:search/presentation/bloc/tvshow/search/search_tv_show_bloc.dart';
 
 class SearchTvShowPage extends StatelessWidget {
-  static const ROUTE_NAME = '/search-tvShow-page';
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(

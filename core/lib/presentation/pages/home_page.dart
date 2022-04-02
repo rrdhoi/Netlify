@@ -1,5 +1,6 @@
 import 'package:core/presentation/pages/tvshow_page.dart';
 import 'package:core/utils/routes.dart';
+import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/material.dart';
 
 import 'movies_page.dart';
@@ -64,7 +65,8 @@ class _HomePageState extends State<HomePage> {
             ),
             ListTile(
               onTap: () {
-                Navigator.pushNamed(context, ABOUT_ROUTE);
+                // Navigator.pushNamed(context, ABOUT_ROUTE);
+                FirebaseCrashlytics.instance.crash();
               },
               leading: Icon(Icons.info_outline),
               title: Text('About'),

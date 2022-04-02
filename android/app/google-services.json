@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10189207606",
+    "project_id": "netlify-d2d72",
+    "storage_bucket": "netlify-d2d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10189207606:android:7557a10f25962e6bb6c097",
+        "android_client_info": {
+          "package_name": "com.dicoding.ditonton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10189207606-j3u6tenqqh7k6rm895m4evv9s92sika5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbs_9On5zPXHGQLTl2OlyC3GvGFWDaK6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10189207606-j3u6tenqqh7k6rm895m4evv9s92sika5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
